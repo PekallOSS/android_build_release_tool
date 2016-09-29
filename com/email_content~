@@ -1,0 +1,11 @@
+家长端APK位置:
+ftp://192.168.10.210//storage/pcp/INTERNET_TEST/parent/20150724/chengzhangshouhu-parent_20150724_INTERNET_TEST_v0724_I_T.apk
+
+家长端：
+1、增加页面完成后，每次都关一下遮罩层
+2、改文字title
+3、修复removeRightButton javascript接口
+4、调整菜单文字与长度
+
+Regards
+杨海

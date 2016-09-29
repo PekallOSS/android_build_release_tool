@@ -1,0 +1,26 @@
+
+开始时间:2016-09-29 10:16:58
+/home/yanghai/work/openSource/project/prjb
+发布工程B:
+
+
+
+项目位置:/home/yanghai/work/openSource/project/prjb
+当前分支: * master
+拉取最新代码：Already up-to-date.
+
+项目位置:/home/yanghai/work/openSource/project/utility
+当前分支: * master
+拉取最新代码：Already up-to-date.
+
+版本号： 8
+
+编译渠道:INTERNET_TEST
+版本名称:v0929_INT_T
+
+正在生成APK,请等待......
+/home/yanghai/work/openSource/project/prjb/app/build/outputs/apk/app-INTERNET_TEST-debug.apk 拷贝到 /home/yanghai/work/openSource/build_tool_python/com/storage/pcp/INTERNET_TEST/prjb/20160929/prjb-int-test.apk
+/home/yanghai/work/openSource/project/prjb/app/build/outputs/apk/app-INTERNET_TEST-release-unsigned.apk 拷贝到 /home/yanghai/work/openSource/build_tool_python/com/storage/pcp/INTERNET_TEST/prjb/20160929/prjb-int-test.apk
+
+结束时间:2016-09-29 10:17:31
+花费 0 分钟
